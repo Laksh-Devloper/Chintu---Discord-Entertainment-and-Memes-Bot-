@@ -7,5 +7,5 @@ requests==2.31.0
 json==2.0.9
 pyjokes==0.6.0
 wikipedia==1.4.0
-Pillow==10.2.0
+Pillow==10.3.0
 aiohttp==3.9.2
